@@ -1,5 +1,5 @@
 #container {
-	border: 1px solid #00ff00;
+	border: 1px solid #000000;
 	padding: 5px 5px 5px 5px;
 	overflow: hidden;
 }
@@ -9,7 +9,7 @@
 	width: 400px;
 	border: 1px solid #000000;
 	height:400px;
-	
+	margin: 2px;
 }
 
 #entertainment {
@@ -17,6 +17,7 @@
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
+	margin: 2px;
 }
 
 #gaming {
@@ -24,13 +25,16 @@
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
+	margin: 2px;
 }
 
 #lifestyle {
+	clear: both;
 	height:400px;
 	float: left;
 	width: 400px;
-	border: 1px solid #000000;	
+	border: 1px solid #000000;
+	margin: 2px;	
 }
 
 #offbeat {
@@ -38,4 +42,5 @@
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
+	margin: 2px;
 }
