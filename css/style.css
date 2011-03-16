@@ -1,5 +1,5 @@
 #container {
-	border: 1px solid #00ff00;
+	border: 1px solid #000000;
 	padding: 5px 5px 5px 5px;
 	overflow: hidden;
 }
@@ -8,8 +8,8 @@
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
-	height:400px;
-	
+	height:500px;
+	margin: 2px;
 }
 
 #business header{
@@ -41,10 +41,26 @@
 	color:#ED4771;
 }
 #entertainment {
-	height:400px;
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
+	margin: 2px;
+	overflow: hidden;
+}
+
+#entertainment header#entertainment-header {
+	border: 1px solid #333333;
+	margin: 3px 3px 0px 3px;	
+	background:#005499;
+	box-shadow: 5px 10px 5px rgba(0,0,0,.4);
+	color: #D5E2F2;
+	height: 25px;
+}
+
+#entertainment section#entertainment-stories-list {
+	margin: 2px 3px 3px 3px;
+	border: 1px solid #333333;
+	box-shadow: 5px 10px 5px rgba(0,0,0,.4);	
 }
 
 #gaming {
@@ -52,13 +68,16 @@
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
+	margin: 2px;
 }
 
 #lifestyle {
+	clear: both;
 	height:400px;
 	float: left;
 	width: 400px;
-	border: 1px solid #000000;	
+	border: 1px solid #000000;
+	margin: 2px;	
 }
 
 #offbeat {
@@ -66,4 +85,5 @@
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
+	margin: 2px;
 }
