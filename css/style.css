@@ -153,15 +153,11 @@
 	background-color:#FFC77F;
 }
 .lifestyle-topic{
-	border: 1px solid red;
 	font-size:16px;
 	font-weight:bold;
 }
 .lifestyle-picture{
 	float:right;
-	border-color:#003EBA;
-	border-style:solid;
-	border-width:1px;
 }
 .source-link{
 	text-decoration:none;
