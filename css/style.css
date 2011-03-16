@@ -86,4 +86,29 @@
 	width: 400px;
 	border: 1px solid #000000;
 	margin: 2px;
+	background-color: #F0A200;
+}
+#offbeat-title {
+	color: #000000;
+	font-size: 1.5em;
+	font-family:arial;
+	letter-spacing:2px;
+	text-align:center ;
+}
+.offbeat-diggs {
+	list-style-type:none;
+	float:left;
+	margin-left:-25px; 
+	margin-right:20px;
+}
+.offbeat-diggs li {
+	text-shadow:#666 0px 1px 2px;
+	border: solid 1px black;
+	margin-bottom: 15px;
+	padding:5px ;
+	-moz-border-radius:10px ;
+	-webkit-border-radius:10px ;
+}
+.offbeat-diggs li a {
+	display:block;
 }
