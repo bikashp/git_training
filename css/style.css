@@ -26,13 +26,13 @@
 	background:#005499;
 	box-shadow: 5px 10px 5px rgba(0,0,0,.4);
 	color: #D5E2F2;
+	height: 25px;
 }
 
 #entertainment section#entertainment-stories-list {
 	margin: 2px 3px 3px 3px;
 	border: 1px solid #333333;
-	box-shadow: 5px 10px 5px rgba(0,0,0,.4);
-	height: 500px;	
+	box-shadow: 5px 10px 5px rgba(0,0,0,.4);	
 }
 
 #gaming {
