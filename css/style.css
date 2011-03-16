@@ -63,6 +63,20 @@
 	box-shadow: 5px 10px 5px rgba(0,0,0,.4);	
 }
 
+#entertainment section#entertainment-stories-list ul li span.digg-entertainment-title {
+	font-size:17px;
+	color:#1A59AB;
+}
+
+#entertainment section#entertainment-stories-list ul li div.digg-entertainment-description a {
+	color: #1C4375;
+}
+
+
+#entertainment section#entertainment-stories-list ul li div.digg-entertainment-description a:hover {
+	color: #2C75D4;
+}
+
 #gaming {
 	height:400px;
 	float: left;
