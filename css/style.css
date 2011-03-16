@@ -1,0 +1,41 @@
+#container {
+	border: 1px solid #00ff00;
+	padding: 5px 5px 5px 5px;
+	overflow: hidden;
+}
+
+#business {
+	float: left;
+	width: 400px;
+	border: 1px solid #000000;
+	height:400px;
+	
+}
+
+#entertainment {
+	height:400px;
+	float: left;
+	width: 400px;
+	border: 1px solid #000000;
+}
+
+#gaming {
+	height:400px;
+	float: left;
+	width: 400px;
+	border: 1px solid #000000;
+}
+
+#lifestyle {
+	height:400px;
+	float: left;
+	width: 400px;
+	border: 1px solid #000000;	
+}
+
+#offbeat {
+	height:400px;
+	float: left;
+	width: 400px;
+	border: 1px solid #000000;
+}
