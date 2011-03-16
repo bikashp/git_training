@@ -78,6 +78,7 @@
 	width: 400px;
 	border: 1px solid #000000;
 	margin: 2px;	
+	background-color:#FF9000;
 }
 
 #offbeat {
@@ -111,4 +112,48 @@
 }
 .offbeat-diggs li a {
 	display:block;
+}
+#lifestyle-header{
+	background-color:#5D7CBA;
+}
+#lifestyle-title{
+	padding:5px;
+	text-decoration:bold;
+	font-size:20px;
+}
+#most-recent{
+	padding:5px;
+	margin-left:80px;
+	font-size:16px;
+}
+#all-news{
+	float:right;
+	font-size:15px;
+	padding:5px;
+}
+#lifestyle-content{
+	background-color:#FFE3BF;
+}
+.lifestyle-articles{
+	margin-top:5px;
+	background-color:#FFC77F;
+}
+.lifestyle-topic{
+	border: 1px solid red;
+	font-size:16px;
+	font-weight:bold;
+}
+.lifestyle-picture{
+	float:right;
+	border-color:#003EBA;
+	border-style:solid;
+	border-width:1px;
+}
+.source-link{
+	text-decoration:none;
+	float:left;
+}
+.lifestyle-post-time{
+	font-style:italic;
+	font-size:14px;
 }
