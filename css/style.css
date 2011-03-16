@@ -8,16 +8,31 @@
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
-	height:400px;
+	height:500px;
 	margin: 2px;
 }
 
 #entertainment {
-	height:400px;
 	float: left;
 	width: 400px;
 	border: 1px solid #000000;
 	margin: 2px;
+	overflow: hidden;
+}
+
+#entertainment header#entertainment-header {
+	border: 1px solid #333333;
+	margin: 3px 3px 0px 3px;	
+	background:#005499;
+	box-shadow: 5px 10px 5px rgba(0,0,0,.4);
+	color: #D5E2F2;
+}
+
+#entertainment section#entertainment-stories-list {
+	margin: 2px 3px 3px 3px;
+	border: 1px solid #333333;
+	box-shadow: 5px 10px 5px rgba(0,0,0,.4);
+	height: 500px;	
 }
 
 #gaming {
