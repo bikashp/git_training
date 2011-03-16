@@ -12,6 +12,34 @@
 	
 }
 
+#business header{
+	font-size:30px;
+	font-family:Verdana Arial;
+	float:left;
+	padding-left:70px;
+	padding-top:10px;
+	color:#5A7575;
+}
+
+#business figure{	
+	float:right;
+}	
+
+#business ul{	
+	padding-top:30px;
+	list-style:none;
+}
+#business li{	
+	padding-top:20px;
+}
+#business li a{	
+	text-decoration:none;
+	font-family:Calibri;
+	color:#747D7D;
+}
+#business li a:hover{	
+	color:#ED4771;
+}
 #entertainment {
 	height:400px;
 	float: left;
