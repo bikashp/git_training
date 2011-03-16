@@ -83,6 +83,44 @@
 	width: 400px;
 	border: 1px solid #000000;
 	margin: 2px;
+	text-align: center;
+}
+
+#gaming div#gaming-block-title {
+	font-size:15px;
+}
+
+#gaming ul {
+	text-align: left;
+	padding: 0px 20px 0px 20px;
+}
+
+#gaming ul li {
+	list-style: none;
+	padding-left: 0px;
+	padding:10px 0px 10px 0px;
+	overflow:hidden;
+	border-bottom: 1px solid silver;
+}
+
+#gaming ul li div.game-description span.game-title {
+	font-size: 15px;
+	color: orange;
+}	
+
+#gaming ul li div.game-description span.game-review {
+	font-size: 12px;
+	display:block;
+}
+
+#gaming ul li div.game-icon {
+	display:inline;
+	float:right;
+	padding: 0px 0px 0px 10px;		
+}
+
+#gaming ul li div.game-icon img{
+	height:70px;
 }
 
 #lifestyle {
